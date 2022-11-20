@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @inquiringscholar
+- 👀 I’m interested in Mathematics, Machine Learning, Software Engineering, Health, and Philosophy
+- 🌱 I’m currently (re-)learning Linear Algebra and Advance Calculus. 
